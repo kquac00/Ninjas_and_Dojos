@@ -1,0 +1,17 @@
+.dojoList {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    border: 3px solid black;
+    margin-left: 40px;
+    width: 200px;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 100px;
+}
+.margin {
+    margin-left: 100px;
+}
